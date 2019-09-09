@@ -3,8 +3,7 @@ hello!!
 this is vim program
 
 # This is Git toturial 
- - feature-A 
-# Git fix-B
+ - feature-A
  - fix-B
-# Git C
  - feature-C
+ - feature-D
