@@ -6,3 +6,5 @@ this is vim program
  - feature-A 
 # Git fix-B
  - fix-B
+# Git C
+ - feature-C
